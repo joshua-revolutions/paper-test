@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "PaperTest",
+    "slug": "PaperTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
